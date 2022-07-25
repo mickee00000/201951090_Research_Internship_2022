@@ -1,0 +1,7 @@
+Alpaydin, E. (2021). Machine Learning, revised and updated edition. MIT Press. 
+Canny edge detector. OpenCV. (n.d.). Retrieved July 25, 2022, from https://docs.opencv.org/4.x/da/d5c/tutorial_canny_detector.html 
+Connectedreams.com. (2016, December 1). Beginner's Guide to Computer Vision. Medium. Retrieved July 25, 2022, from https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720 
+Kang, N. (2019, February 4). Introducing deep learning and neural networks - deep learning for rookies (1). Medium. Retrieved July 25, 2022, from https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883 
+Lee, S. (2022, January 30). Lines detection with Hough Transform. Medium. Retrieved July 25, 2022, from https://towardsdatascience.com/lines-detection-with-hough-transform-84020b3b1549 
+Sha, P., &amp; Dong, X. (2021, August 21). Research on adolescents regarding the indirect effect of depression, anxiety, and stress between TikTok use disorder and memory loss. International journal of environmental research and public health. Retrieved July 25, 2022, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8393543/ 
+Springer. (2015). Computer vision. 
